@@ -1,0 +1,11 @@
+{
+  "name": "cumulative-moving-average",
+  "description": "Cumulative moving average",
+  "version": "0.0.1",
+  "license": "MIT",
+  "scripts": [
+    "index.js"
+  ],
+  "main": "index.js",
+  "repo": "jonathanong/cumulative-moving-average"
+}
