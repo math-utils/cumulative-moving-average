@@ -11,11 +11,11 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jonathanong/cumulative-moving-average.git"
+    "url": "https://github.com/math-utils/cumulative-moving-average.git"
   },
   "bugs": {
     "mail": "me@jongleberry.com",
-    "url": "https://github.com/jonathanong/cumulative-moving-average/issues"
+    "url": "https://github.com/math-utils/cumulative-moving-average/issues"
   },
   "devDependencies": {
     "mocha": "*"

@@ -1,4 +1,4 @@
-# Cumulative Moving Average [![Build Status](https://travis-ci.org/jonathanong/cumulative-moving-average.png)](https://travis-ci.org/jonathanong/cumulative-moving-average)
+# Cumulative Moving Average [![Build Status](https://travis-ci.org/math-utils/cumulative-moving-average.png)](https://travis-ci.org/math-utils/cumulative-moving-average)
 
 ## API
 

@@ -7,5 +7,5 @@
     "index.js"
   ],
   "main": "index.js",
-  "repo": "jonathanong/cumulative-moving-average"
+  "repo": "math-utils/cumulative-moving-average"
 }
