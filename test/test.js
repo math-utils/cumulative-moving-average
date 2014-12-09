@@ -1,6 +1,6 @@
 var assert = require('assert')
 
-var cma = require('./')
+var cma = require('..')
 
 describe('Cumulative Moving Average', function () {
   it('should work', function () {
